@@ -2,4 +2,11 @@ Modified
 
 Changes after Commit
 Thank you
+<<<<<<< Updated upstream
 Update From Web GitHub
+=======
+
+
+
+Again Change
+>>>>>>> Stashed changes
